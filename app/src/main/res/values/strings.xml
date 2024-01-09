@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectAndroid3</string>
+    <string name="country_database">Country Database</string>
+    <string name="country_name">Country Name</string>
+    <string name="country_capital">Country Capital</string>
+    <string name="country_population">Country Population</string>
+    <string name="save">Save Country</string>
+    <string name="read">Read all Countries</string>
+    <string name="delete">Delete Country</string>
+    <string name="search_for_country_name">Search with Country Name</string>
+</resources>
